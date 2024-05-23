@@ -1,0 +1,13 @@
+name = "Trimmable Tools"
+filename = "trimmable-tools-mc1.20-v1.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MJu3fF3K/versions/qsg5bbYU/trimmable-tools-mc1.20-v1.0.6.jar"
+hash-format = "sha1"
+hash = "e814367e41f10826143f89e986f48d4572dc0b62"
+
+[update]
+[update.modrinth]
+mod-id = "MJu3fF3K"
+version = "qsg5bbYU"

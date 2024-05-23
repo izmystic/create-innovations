@@ -1,0 +1,13 @@
+name = "Create: Unbreakable Tools"
+filename = "CreateUnbreakableTools-1.0+fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bzzq7Auj/versions/j8WCmPFg/CreateUnbreakableTools-1.0%2Bfabric-1.20.1.jar"
+hash-format = "sha1"
+hash = "edefdd37f8568fea5873a8874cf87381b1cc35ac"
+
+[update]
+[update.modrinth]
+mod-id = "bzzq7Auj"
+version = "j8WCmPFg"
