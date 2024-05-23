@@ -241,6 +241,11 @@ hash = "6ed9dba064110665c3dcf26be139c68b290ef0079e8aece1d2aced9484ebf85b"
 metafile = true
 
 [[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "bf4caa5dc97f8220b13500269cc4b34b7ff9fb6e561dda3603cb05a3564e6d3e"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "587142b33082d5677c233f1cf91e3c7390c15b371335118abe42802ec3303802"
 metafile = true
