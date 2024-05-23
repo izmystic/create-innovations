@@ -231,6 +231,11 @@ hash = "d6f3249ad3a27395ebeaa97bd4601587169f0ffa50ddefabc0538358eee8b555"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "587142b33082d5677c233f1cf91e3c7390c15b371335118abe42802ec3303802"
+metafile = true
+
+[[files]]
 file = "mods/emuno.pw.toml"
 hash = "8f0c18360533351fff9237b803b1a91fb86cc9b00d56e61f116076e654c9f8e8"
 metafile = true
