@@ -236,6 +236,11 @@ hash = "f88b04c5b537da9f1d032e3c9dff56648d9c19b7658af065f11d618f5c1c3fdd"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "6ed9dba064110665c3dcf26be139c68b290ef0079e8aece1d2aced9484ebf85b"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "587142b33082d5677c233f1cf91e3c7390c15b371335118abe42802ec3303802"
 metafile = true
