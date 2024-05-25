@@ -186,6 +186,11 @@ hash = "e0c3edb69b3abaf660507127e993d2880faf30ddead8a42391c1d9571c467784"
 metafile = true
 
 [[files]]
+file = "mods/create_oxidized.pw.toml"
+hash = "d475bec9205c4d449195c219026853c05d468cf6897dd5e0b1c797df4411f5b0"
+metafile = true
+
+[[files]]
 file = "mods/create_unbreakable.pw.toml"
 hash = "1e2e7e12b458f62541a33befb0cb810c7c9160c4704aec8258ce4001d994ab6a"
 metafile = true
