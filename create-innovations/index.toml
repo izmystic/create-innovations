@@ -151,6 +151,11 @@ hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
 metafile = true
 
 [[files]]
+file = "mods/create-garnished.pw.toml"
+hash = "dfa3cd8b64da002f1f1674c96795851b8c734e7d357deedfa9e8ae55c8a4f2c4"
+metafile = true
+
+[[files]]
 file = "mods/create-goggles.pw.toml"
 hash = "63181126ca8ff3989e9a0e91ce01121545e26e4a9ca8cbe4e6681395c92b1edd"
 metafile = true
