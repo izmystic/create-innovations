@@ -126,6 +126,11 @@ hash = "0372b9ea1233cf516f205bed50c4014bfb4e806406657b8f803409a71d81d88a"
 metafile = true
 
 [[files]]
+file = "mods/create-design-n-decor.pw.toml"
+hash = "8eb262e41270d2dc38033a31e68ce9e80d664c5912afd95193c4158d7641c062"
+metafile = true
+
+[[files]]
 file = "mods/create-diesel-generators-fabric.pw.toml"
 hash = "c444817bb4da81488458646b19c2c4ad49284d9a99961a61958628c71c0dfced"
 metafile = true
