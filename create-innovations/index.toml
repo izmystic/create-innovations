@@ -86,6 +86,11 @@ hash = "522541d0f64752df95a0fd2089aff87c13aada4ebf6c9f54150284f28e207286"
 metafile = true
 
 [[files]]
+file = "mods/cinderscapes.pw.toml"
+hash = "f6a88dddbee551dadd9f8c8b52912a30c70bf381f152d67d97ebe0e5c6201898"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "2cf2d6c7683cbaa8d4d91374d5a92e6166176aefe5e0d7a0a2714c9321f8add0"
 metafile = true
