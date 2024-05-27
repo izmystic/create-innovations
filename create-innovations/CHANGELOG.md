@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/izmystic/create-innovations/compare/create-innovations-v1.1.0...create-innovations-v1.1.1) (2024-05-27)
+
+
+### ☀ Modpack Changes
+
+* **create-innovations:** remove Create: Coins Arise ([1566f15](https://github.com/izmystic/create-innovations/commit/1566f157d8938cbd0af4bc45e8ec48190b6af94c))
+
 ## [1.1.0](https://github.com/izmystic/create-innovations/compare/create-innovations-v1.0.1...create-innovations-v1.1.0) (2024-05-27)
 
 
