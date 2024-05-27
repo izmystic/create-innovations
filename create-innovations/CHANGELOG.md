@@ -1,5 +1,32 @@
 # Changelog
 
+## [1.1.0](https://github.com/izmystic/create-innovations/compare/create-innovations-v1.0.1...create-innovations-v1.1.0) (2024-05-27)
+
+
+### ★ Features
+
+* **create-innovations:** correct side of Create: Oxidized ([d98329f](https://github.com/izmystic/create-innovations/commit/d98329f98c2962e0f9c6f220e93a71e22b87a0a6))
+
+
+### ☀ Modpack Changes
+
+* **create-innovations:** add Create Cobblestone ([5c5d55c](https://github.com/izmystic/create-innovations/commit/5c5d55c3b9847984d4d3176b00ba2f77fced73fd))
+* **create-innovations:** add Create: Coins Arise ([db71364](https://github.com/izmystic/create-innovations/commit/db71364d77640e6ff33d3c757c4d51d8dd073131))
+* **create-innovations:** add Create: High Pressure ([977a94e](https://github.com/izmystic/create-innovations/commit/977a94e91094cd07df8811f150d183fb08a275e4))
+* **create-innovations:** add Create: Power Loader (Fabric) ([18bc7e2](https://github.com/izmystic/create-innovations/commit/18bc7e2f013d5a3193c63dd328abbba86cd4dea5))
+
+
+### ⚘ Modpack Updates
+
+* **create-innovations:** update 3D Skin Layers ([ecee40b](https://github.com/izmystic/create-innovations/commit/ecee40b2a94ea5152575c3cb2190513dc1793414))
+* **create-innovations:** update BSL Shaders ([fe71320](https://github.com/izmystic/create-innovations/commit/fe71320fc669c53a4089bff0e9bc9eba20958980))
+* **create-innovations:** update Create: Numismatics ([dbd3b1b](https://github.com/izmystic/create-innovations/commit/dbd3b1b406a5c182a51950f4af1ffa00e87f6006))
+* **create-innovations:** update Entity Culling ([9868f8b](https://github.com/izmystic/create-innovations/commit/9868f8bd88874a7a42c7d255810c9e2a2f796f53))
+* **create-innovations:** update Puzzles Lib ([ddb9540](https://github.com/izmystic/create-innovations/commit/ddb9540c1611e2297ea9cd8e8594b568417dc154))
+* **create-innovations:** update YetAnotherConfigLib ([0597b71](https://github.com/izmystic/create-innovations/commit/0597b71836669dcf7059f2b4a2b459b47b524d87))
+* **create-innovations:** update You're in Grave Danger ([33d7146](https://github.com/izmystic/create-innovations/commit/33d71468a920c94dc91825df1e99b0819bac82af))
+* **create-innovations:** update Zoomify ([4b30d2e](https://github.com/izmystic/create-innovations/commit/4b30d2e844ac8b7ae57fd2b8466c0ee1e0b5e024))
+
 ## [1.0.1](https://github.com/izmystic/create-innovations/compare/create-innovations-v1.0.0...create-innovations-v1.0.1) (2024-05-26)
 
 
