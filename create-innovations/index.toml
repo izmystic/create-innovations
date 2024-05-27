@@ -106,6 +106,11 @@ hash = "54b6de813db1fc2774b4002898fa89f902a7efeb33a05197cf7bfda498f6b94e"
 metafile = true
 
 [[files]]
+file = "mods/coins-arise.pw.toml"
+hash = "4cc6357e2afb6f6ab3069d2ef0f733575ca049889cec579949f760f79c4d3c2c"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "12bfd075e78e307a331253f247201bf261cbe41cdfa57be73e00f8867e2f46f9"
 metafile = true
