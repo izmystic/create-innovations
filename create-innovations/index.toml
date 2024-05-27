@@ -126,6 +126,11 @@ hash = "4e0de0f8b7921a609612cb1fd67721e801addc4f659b909ea9a1717cd131c80b"
 metafile = true
 
 [[files]]
+file = "mods/create-cobblestone.pw.toml"
+hash = "cc20645abdf5c7d494ffdb31f590bfc3a300c71942f21ee4c2c4a457bb4170db"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "0372b9ea1233cf516f205bed50c4014bfb4e806406657b8f803409a71d81d88a"
 metafile = true
@@ -197,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-track-map.pw.toml"
-hash = "93adce5ea0a86dc042dfac4ae7f2f7068e159b57426cd4de2c7db35615f74e28"
+hash = "17d1fddf9c051bbf6a95da2feb98625f617f1c92e517f5ea9a6cda0e97301524"
 metafile = true
 
 [[files]]
@@ -242,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/double-doors.pw.toml"
-hash = "104c41bdffa7018ee788f6539e8f343e749a715160d6f5c3a9903c529497a6c8"
+hash = "0bc34de195717313cc7d94cc30be4219059bcf95caf37166924aefacdf2ea876"
 metafile = true
 
 [[files]]
@@ -417,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
-hash = "a6454ef50734986eb1f1540b1ec56a910a8f728532769b65665f7c11af420b29"
+hash = "d7c03a9a61a81693732b6ae275f63ee63aa97def2e511be48b740e03c4f34a17"
 metafile = true
 
 [[files]]
@@ -437,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/mooshroom-tweaks.pw.toml"
-hash = "ab822bfb62432010946968b5383c16c883ce1e8a2db2900b8bcff7b841aeb79b"
+hash = "7980351fcaa7fbc134127709cc6c0cf0dcb60b1e195e408029e60bac99cb7db1"
 metafile = true
 
 [[files]]
