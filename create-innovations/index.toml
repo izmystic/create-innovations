@@ -36,6 +36,11 @@ hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "e5d87db8974fa2b69870d7ea2f0878ae7d9aabd5f6b1cadb0ea45cd641e89f24"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "55c3c0b90712f84b1936ef69bbc1937bedd2e499b65003e0f22f00ad744a885b"
 metafile = true
@@ -83,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "522541d0f64752df95a0fd2089aff87c13aada4ebf6c9f54150284f28e207286"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "8cc8ae82b42d7da756faa8d03bc3073bac5d4c494606d926cd238e3a9c5d7352"
 metafile = true
 
 [[files]]
@@ -533,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "d812e151028b7231d0e6bbd28a7b03a2b0e912c7052c0565e2f47e740717c298"
 metafile = true
 
 [[files]]
