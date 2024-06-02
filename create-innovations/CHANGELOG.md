@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.3](https://github.com/izmystic/create-innovations/compare/create-innovations-v1.1.2...create-innovations-v1.1.3) (2024-06-02)
+
+
+### ☀ Modpack Changes
+
+* **create-innovations:** downgrade Create: Unbreakable Tools ([3128fe0](https://github.com/izmystic/create-innovations/commit/3128fe0c401efbe26a6cb7161630cce9fbd1093f))
+
 ## [1.1.2](https://github.com/izmystic/create-innovations/compare/create-innovations-v1.1.1...create-innovations-v1.1.2) (2024-06-02)
 
 
