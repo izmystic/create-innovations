@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cobblestone.pw.toml"
-hash = "8cf9aa83f3c0b293e92e02ab68c7dbf155ab243a5ef195594a6076dcf9a1bd06"
+hash = "1c7b4fe6878f0e3ba6536374d2172b1e2b7d24ff5c8c28b48ba907eba5e880c6"
 metafile = true
 
 [[files]]
