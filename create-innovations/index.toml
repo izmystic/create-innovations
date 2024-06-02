@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/create_unbreakable.pw.toml"
-hash = "1e2e7e12b458f62541a33befb0cb810c7c9160c4704aec8258ce4001d994ab6a"
+hash = "f345777f5f5c3d5076e5ee2a66ad4d1388befe53f983bc7dbc04c697590dff23"
 metafile = true
 
 [[files]]
