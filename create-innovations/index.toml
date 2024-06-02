@@ -521,6 +521,11 @@ hash = "35f2b7d27291e3a313c986137b70b7675bc32b3d0097e0940c7e23b0cf62b92e"
 metafile = true
 
 [[files]]
+file = "mods/purecoppertools.pw.toml"
+hash = "1b379a473653ba6c6672835d5a67d68b5492057af361a6c3c8a72a4442c75f8c"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "a6e087aa1beacb72cbfd77e442c78329b8a3c8af71cd3833078ff4cc7186d64f"
 metafile = true
