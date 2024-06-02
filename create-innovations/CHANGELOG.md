@@ -1,5 +1,29 @@
 # Changelog
 
+## [1.1.2](https://github.com/izmystic/create-innovations/compare/create-innovations-v1.1.1...create-innovations-v1.1.2) (2024-06-02)
+
+
+### ☀ Modpack Changes
+
+* **create-innovations:** add Chipped ([583c330](https://github.com/izmystic/create-innovations/commit/583c330f03d8e4f7e7cdb02cfb343770ccd2c217))
+* **create-innovations:** add Pure Copper Tools ([e4c2202](https://github.com/izmystic/create-innovations/commit/e4c22027dc80993f278df83ce1f0b9031c97d83f))
+* **create-innovations:** add Pure Emerald Tools ([a9e320b](https://github.com/izmystic/create-innovations/commit/a9e320ba19a398eb0df9179abf4403bf73dbdb9d))
+* **create-innovations:** add Rechiseled ([4855b8a](https://github.com/izmystic/create-innovations/commit/4855b8a167850d7a272cbfd37b23eb5781d4504b))
+* **create-innovations:** add Rechiseled: Create ([7f12342](https://github.com/izmystic/create-innovations/commit/7f1234228b094530f3ab73802b0777226f1c9fb1))
+
+
+### ⚘ Modpack Updates
+
+* **create-innovations:** update Collective ([9cb55c8](https://github.com/izmystic/create-innovations/commit/9cb55c892367e82005e3f08090d6c800da007a84))
+* **create-innovations:** update Create Cobblestone ([f7925b3](https://github.com/izmystic/create-innovations/commit/f7925b3c9f2837ab5c730421a190b047f3b72f04))
+* **create-innovations:** update Create Cobblestone ([a28eb9e](https://github.com/izmystic/create-innovations/commit/a28eb9e505ce6193f0353efae5aa572de04119fd))
+* **create-innovations:** update Create: Garnished ([ecdf9e3](https://github.com/izmystic/create-innovations/commit/ecdf9e31914b98ad25a6ed479da04f382170c54c))
+* **create-innovations:** update Create: Unbreakable Tools ([634ccb1](https://github.com/izmystic/create-innovations/commit/634ccb13af0e5a9cb95ed275f4dadb7d986e5a4c))
+* **create-innovations:** update CreativeCore ([ca69c8f](https://github.com/izmystic/create-innovations/commit/ca69c8f6aa48a4b82680370dc57c4d579db876f9))
+* **create-innovations:** update Fabric API ([127df49](https://github.com/izmystic/create-innovations/commit/127df49d75e8608c810bd6df821f64b8c0853041))
+* **create-innovations:** update ImmediatelyFast ([f265967](https://github.com/izmystic/create-innovations/commit/f265967a5ff7b365f76017bdab04a49558f43692))
+* **create-innovations:** update Solas Shader ([d96daa5](https://github.com/izmystic/create-innovations/commit/d96daa57be79fe63a00bbaf149c955efd3a5a4e4))
+
 ## [1.1.1](https://github.com/izmystic/create-innovations/compare/create-innovations-v1.1.0...create-innovations-v1.1.1) (2024-05-27)
 
 
