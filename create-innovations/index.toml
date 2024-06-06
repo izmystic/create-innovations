@@ -406,6 +406,11 @@ hash = "957fccf5d7bb580339b0ac2b8de2986415ef83fe297963e888e97d2063afefc3"
 metafile = true
 
 [[files]]
+file = "mods/iris-flw-compat.pw.toml"
+hash = "3ed7175a4aa7b6f314f844c9b1a0838736f227707fa924b00e6a2957dcaa974c"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "bea7422cbe82074a7e6306cdcd0ab8941cce0e86e439fcbffd3d9930de3e32a3"
 metafile = true
