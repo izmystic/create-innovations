@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.1.4](https://github.com/izmystic/create-innovations/compare/create-innovations-v1.1.3...create-innovations-v1.1.4) (2024-06-06)
+
+
+### ☀ Modpack Changes
+
+* **create-innovations:** add Iris & Oculus Flywheel Compat ([28b06f8](https://github.com/izmystic/create-innovations/commit/28b06f89a34c75cf43a9f2d956486d8b05d4d064))
+* **create-innovations:** remove Pure Copper Tools ([5a03588](https://github.com/izmystic/create-innovations/commit/5a035881f783714a5e6645a05ff9d20b07778374))
+* **create-innovations:** remove Pure Emerald Tools ([454d7ce](https://github.com/izmystic/create-innovations/commit/454d7ce336582128c3925a51ff85300e7534ebc4))
+
+
+### ⚘ Modpack Updates
+
+* **create-innovations:** update Advanced Netherite ([99b55c2](https://github.com/izmystic/create-innovations/commit/99b55c24075bcf4124aeb152f5354d076ffdfc3f))
+* **create-innovations:** update Create Ore Excavation ([6dd8f16](https://github.com/izmystic/create-innovations/commit/6dd8f1646c642181468330af4a98d96b41f57501))
+* **create-innovations:** update Create: Garnished ([dab5af3](https://github.com/izmystic/create-innovations/commit/dab5af3889723c71f760a43e318dd412ffb27afd))
+* **create-innovations:** update ModernFix ([58fa611](https://github.com/izmystic/create-innovations/commit/58fa6119c01972f65b9d50a819d5cf999fe35f8c))
+* **create-innovations:** update More Armor Trims ([5d3e344](https://github.com/izmystic/create-innovations/commit/5d3e3446ebe02e4ffad862f19e9878adf296721c))
+* **create-innovations:** update Tectonic ([f70398e](https://github.com/izmystic/create-innovations/commit/f70398e523c2c47c634dac12fad90b2014449e91))
+* **create-innovations:** update Xaero's World Map ([6e2004c](https://github.com/izmystic/create-innovations/commit/6e2004c3f5ffe481b7b8a718f97d00ae8e031d17))
+
 ## [1.1.3](https://github.com/izmystic/create-innovations/compare/create-innovations-v1.1.2...create-innovations-v1.1.3) (2024-06-02)
 
 
