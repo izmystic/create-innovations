@@ -1,13 +1,13 @@
 name = "More Armor Trims"
-filename = "morearmortrims-1.2.0.jar"
+filename = "morearmortrims-1.3.0-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FGNYBAJ6/versions/C8rLpXhf/morearmortrims-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/FGNYBAJ6/versions/LS4Bg3iE/morearmortrims-1.3.0-1.20.1.jar"
 hash-format = "sha1"
-hash = "7df9f58fc27784ec88b631418095e2b5941f8667"
+hash = "e6ebeb589e29b7ef41633f024db088facd67cd3f"
 
 [update]
 [update.modrinth]
 mod-id = "FGNYBAJ6"
-version = "C8rLpXhf"
+version = "LS4Bg3iE"
