@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-garnished.pw.toml"
-hash = "fa6c54651a0b65ef070f649b7b9cf9af7dd2929e73f0b61da68931cdf5dfac12"
+hash = "d6a583ed6a3a3fe43793cd8ec4224a40f4e5b3ab9ab45a7f39bfc91375947eef"
 metafile = true
 
 [[files]]
