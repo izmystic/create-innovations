@@ -1,13 +1,13 @@
 name = "Create Cobblestone"
-filename = "createcobblestone-1.2.0+fabric-1.20.1-22.jar"
+filename = "createcobblestone-1.3.2+fabric-1.20.1-38.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ihpnEd80/versions/CXcJWPtc/createcobblestone-1.2.0%2Bfabric-1.20.1-22.jar"
+url = "https://cdn.modrinth.com/data/ihpnEd80/versions/7kZwvvUD/createcobblestone-1.3.2%2Bfabric-1.20.1-38.jar"
 hash-format = "sha1"
-hash = "970c0ec435d7ab8eed6271d5bc9e9b9e0b988194"
+hash = "6d1abc9974ace7c018a862a43ac6b29844e8433c"
 
 [update]
 [update.modrinth]
 mod-id = "ihpnEd80"
-version = "CXcJWPtc"
+version = "7kZwvvUD"

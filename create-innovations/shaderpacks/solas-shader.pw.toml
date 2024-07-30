@@ -1,13 +1,13 @@
 name = "Solas Shader"
-filename = "Solas Shader V2.0.zip"
+filename = "Solas Shader V2.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/EpQFjzrQ/versions/3mGi0Tm7/Solas%20Shader%20V2.0.zip"
+url = "https://cdn.modrinth.com/data/EpQFjzrQ/versions/QFQv6Wsp/Solas%20Shader%20V2.1.zip"
 hash-format = "sha1"
-hash = "7a08f0ada803098a24f4ddac47c1adfbc2072d5c"
+hash = "912b1a504f5780758b5d12459ebe8a4960f13cce"
 
 [update]
 [update.modrinth]
 mod-id = "EpQFjzrQ"
-version = "3mGi0Tm7"
+version = "QFQv6Wsp"
