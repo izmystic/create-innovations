@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.6](https://github.com/izmystic/create-innovations/compare/create-innovations-v1.1.5...create-innovations-v1.1.6) (2024-07-30)
+
+
+### ☀ Modpack Changes
+
+* **create-innovations:** add TCDCommons API ([bc9db8e](https://github.com/izmystic/create-innovations/commit/bc9db8ed0d6c313ae8485875f6c1df3511336b90))
+* **create-innovations:** remove nvidium ([ce2bb8d](https://github.com/izmystic/create-innovations/commit/ce2bb8d868a98fd728aa4c07bfc7fe9c94bc7e1c))
+
 ## [1.1.5](https://github.com/izmystic/create-innovations/compare/create-innovations-v1.1.4...create-innovations-v1.1.5) (2024-07-30)
 
 
