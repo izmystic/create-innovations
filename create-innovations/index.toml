@@ -606,6 +606,11 @@ hash = "515c7bc565f95c472aa347085937d4f96e02498ac68b15158a723fe876a3d3fb"
 metafile = true
 
 [[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "87aade4361d32b078dee51eeb4a4885dee824720a1d49c4cd9306cb8fe73a50f"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "1624e47e8890c8e7a09a7f808f2fd3f01b6d07ce350e9b9c7ccc86aea9eda1fa"
 metafile = true
