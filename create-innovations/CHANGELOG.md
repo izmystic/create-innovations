@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.7](https://github.com/izmystic/create-innovations/compare/create-innovations-v1.1.6...create-innovations-v1.1.7) (2024-09-27)
+
+
+### ⚘ Modpack Updates
+
+* **create-innovations:** updated mods ([72a28aa](https://github.com/izmystic/create-innovations/commit/72a28aae24d869e70bdc95dc4fdafe6b15a81373))
+
 ## [1.1.6](https://github.com/izmystic/create-innovations/compare/create-innovations-v1.1.5...create-innovations-v1.1.6) (2024-07-30)
 
 
